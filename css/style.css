@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+.titulo {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin-left: 10vw;
+}
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 8vw;
+}
+.links h5 {
+    font-size: 18px;
+    color: #E5E7EB;
+    padding-left: 2vw;
+}
+header {
+    background-color: #1F2937;
+    padding-bottom: 9vh;
+}
+.imgHead {
+    width: 30vw;
+    height: 30vh;
+    margin-top: 9vh;
+}
+.awesome p {
+    color: #E5E7EB;
+}
+.about {
+    display: flex;
+    justify-content: space-evenly;
+}
+.awesome {
+    width: 40vw;
+}
+.awesomeP {
+    font-size: 48px;
+    color: #F9FAF8;
+}
+.boton {
+    background-color: #3882F6;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    width: 9vw;
+    height: 5vh;
+}
+.random {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+.sectionFotos {
+    display: flex;
+    justify-content: center;
+}
+.sectionFotos img {
+    width: 25vh;
+    height: 22vh;
+}
+.sectionFotos p {
+    text-align: center;
+    width: 10vw;
+    margin-right: 3vw;
+}
+.square {
+    width: 5vw;
+    height: 10vh;
+    border: 2px solid blue;
+    border-radius: 5px;
+    margin-left: 3vw;
+}
+.note {
+    background-color: #E5E7EB;
+    height: 40vh;
+    width: 80vw;
+    margin-left: 10vw;
+    padding-bottom: 5vh;
+    margin-top: 5vh;
+}
+.noteWrite {
+    width: 60vw;
+    margin-left: 11vw;
+    padding-top: 0.5vh;
+
+}
+.noteWrite p {
+    text-align: start;
+    font-size: 36px;
+    font-style: italic;
+}
+.span {
+    font-weight: bold;
+    margin-left: 45vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.action {
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+    background-color: #3882F6;
+    width: 60vw;
+    border-radius: 5px;
+    margin-left: 20vw;
+    margin-top: 10vh;
+}
+.action p {
+    text-align: start;
+    color: #F9FAF8;
+}
+.actionP {
+    margin-bottom: -2vh;
+    font-weight: bold;
+}
+.boton2 {
+    border: 1px solid white;
+    margin-top: 1vh;
+}
+footer {
+    background-color: #1F2937;
+    height: 8vh;
+    padding-top: 2vh;
+    margin-top: 10vh;
+}
+footer p {
+    text-align: center;
+    color: white;
+}
